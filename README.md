@@ -4,3 +4,4 @@ All codes are stored in PDF format.
 #MySQL 
 #GUI
 #Normalization
+![](images/https://github.com/polawatsri099/Hotel-Management-System/blob/main/ER-Diagram-Hotel.png)
